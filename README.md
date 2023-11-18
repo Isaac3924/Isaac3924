@@ -2,7 +2,7 @@
 
 ***
 
-I'm a BackEnd developer with about a year's worth of experience working on web applications and a few years more working in Game Development. I graduated from the University of Colorado Colorado Springs with a bachelors in English Literature, and two minors in Game Design and Creative Writing. I have also more recently graduated from the accredited Turing School of Software and Development. I'm a driven individual who deidcates their time learning everything I can about a vast number of technologies and disciplines. Developing programs and applications that provide a unique service are a special thrill for me, and I relish any new challenge I encounter while doing so. Currently, I'm learning more on the FrontEnd side of things with JavaScript and the React framework whole also deepening my understanding of Data Structures and Algorithms.
+I'm a BackEnd developer with about a year's worth of experience working on web applications and a few years more working in Game Development. I graduated from the University of Colorado Colorado Springs with a bachelors in English Literature, and two minors in Game Design and Creative Writing. I have also more recently graduated from the accredited Turing School of Software and Development. I'm a driven individual who deidcates their time learning everything I can about a vast number of technologies and disciplines. Developing programs and applications that provide a unique service are a special thrill for me, and I relish any new challenge I encounter while doing so. Currently, I'm learning more on the FrontEnd side of things with JavaScript and the React framework while also deepening my understanding of Data Structures and Algorithms.
 
 ## My Skills
 ***
